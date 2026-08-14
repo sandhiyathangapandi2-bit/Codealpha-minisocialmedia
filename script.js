@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const postDiv = document.createElement("div");
 
         postDiv.innerHTML = `
-            <h3>Gopika</h3>
+            <h3>sandhiya</h3>
             <p>${postText}</p>
 
             <button class="like-btn">👍 Like</button>
